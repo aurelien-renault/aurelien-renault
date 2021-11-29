@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aurelien-renault
 - 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently studying Data Science and AI at Ecole Polytechnique
+- 🌱 I’m currently studying Data Science and AI at Ecole Polytechnique. I've also studied financial engineering at ESILV.
 - 📫 You can reach me at aurelien.renault@outlook.fr or go straight visit my [LinkedIn](www.linkedin.com/in/aurélien-renault)
 
 <!---
